@@ -24,7 +24,7 @@ header ul {
 main {
     display: flex;
     justify-content: space-between;
-    padding: 60px 40px;
+    padding: 40px 40px;
     gap: 10px;
     background-color: rgb(230, 230, 230);
 
